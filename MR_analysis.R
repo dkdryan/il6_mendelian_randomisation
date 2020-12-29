@@ -1,4 +1,5 @@
 #IL-6 inhibition and renal effects: A Mendelian Randomisation Study 
+#Pre-publication reference: https://www.authorea.com/users/365323/articles/485466-inhibition-of-interleukin-6-signalling-and-renal-function-a-mendelian-randomization-study
 
 #Import libraries 
 library(dplyr)
